@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://betixf2qq1ia6"
+path="res://.godot/imported/Dark Devil's Oath.mp3-ed7f5cf5d24e3261beb3bdec5ac36316.mp3str"
+
+[deps]
+
+source_file="res://audio/Dark Devil's Oath.mp3"
+dest_files=["res://.godot/imported/Dark Devil's Oath.mp3-ed7f5cf5d24e3261beb3bdec5ac36316.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
